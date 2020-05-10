@@ -56,6 +56,7 @@ const Navbar = class extends React.Component {
               <span />
             </div>
           </div>
+        {/*
           <div
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}
@@ -80,7 +81,9 @@ const Navbar = class extends React.Component {
             <div className="navbar-end has-text-centered">
                 {/* Right Image Navbar */}
             </div>
+
           </div>
+*/}
         </div>
       </nav>
     )
