@@ -3,8 +3,7 @@ templateKey: index-page
 title: FT Hackathon Template
 image: /img/karsten-wurth-0w-uta0xz7w-unsplash.jpg
 heading: Lorem ipsum dolor sit amet.
-subheading: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-  eiusmod tempor incididunt ut labore et dolore magna aliqua.
+subheading: Lorem ipsum dolor sit amet.
 mainpitch:
   title: Why Sustainable Capitalism
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
