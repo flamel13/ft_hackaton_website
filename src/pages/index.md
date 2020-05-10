@@ -2,9 +2,9 @@
 templateKey: index-page
 title: FT Hackathon Template
 image: /img/karsten-wurth-0w-uta0xz7w-unsplash.jpg
-heading: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
-subheading: Support sustainable farming while enjoying a cup
+heading: Lorem ipsum dolor sit amet.
+subheading: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+  eiusmod tempor incididunt ut labore et dolore magna aliqua.
 mainpitch:
   title: Why Kaldi
   description: >
