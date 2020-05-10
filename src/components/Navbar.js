@@ -79,10 +79,6 @@ const Navbar = class extends React.Component {
             </div>
             <div className="navbar-end has-text-centered">
                 {/* Right Image Navbar */}
-                <span className="icon">
-                  <img src={github} alt="Github" />
-                </span>
-              </a>
             </div>
           </div>
         </div>
