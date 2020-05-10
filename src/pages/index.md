@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: FT Hackathon Template
-image: /img/home-jumbotron.jpg
+image: /img/karsten-wurth-0w-uta0xz7w-unsplash.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
